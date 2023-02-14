@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\user\source\repos\api1\api1\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-01-16T20:07:10.1003706Z;</History>
+  </PropertyGroup>
+</Project>
